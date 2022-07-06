@@ -1,0 +1,2 @@
+dyros_practice_1:dyros_urdf_tf
+-DCATKIN_DEVEL_PREFIX=/home/robotv/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/robotv/catkin_ws/install -G Unix Makefiles
